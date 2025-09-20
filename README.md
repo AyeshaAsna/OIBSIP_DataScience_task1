@@ -34,5 +34,7 @@ It demonstrates basic Python programming, logical thinking, and problem-solving.
 - Key learning: improved Python programming, Git workflow, and documentation skills.
 
 ##  How to Run
+1.Dataset:Iris (1).csv
+2.Run the script:
 ```bash
 python task_1.py
